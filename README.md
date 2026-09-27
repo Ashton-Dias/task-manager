@@ -48,7 +48,7 @@ A simple task manager where you can register, log in, and manage your own to-do 
 
 ## Deployed app
 
-[TODO: add deployed link]
+[https://ashtons-task-manager.netlify.app/]
 
 ## Demo video
 
