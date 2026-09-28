@@ -52,4 +52,4 @@ A simple task manager where you can register, log in, and manage your own to-do 
 
 ## Demo video
 
-[TODO: add demo video link]
+[https://www.youtube.com/watch?v=UPYCCw-L1_8]
